@@ -1,0 +1,18 @@
+# Tab Practice File 2
+
+You're getting the hang of it! This is the second practice file.
+
+## Quick Exercise:
+Try these tab-related commands in the Command Palette:
+- "pane: close other items" - closes all tabs except current
+- "pane: close items to the right" - closes tabs to the right
+- "pane: close all items" - closes all tabs in pane
+- "pane: reopen closed item" - brings back closed tabs!
+
+## Tab Navigation Shortcuts:
+While we focus on Command Palette, these shortcuts are worth knowing:
+- Next tab: Ctrl+Tab
+- Previous tab: Ctrl+Shift+Tab
+- Go to tab by number: Alt+1, Alt+2, etc. (Linux/Windows) or Ctrl+1, Ctrl+2 (macOS)
+
+Practice switching to File 1, then File 3, then back here!

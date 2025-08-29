@@ -1,0 +1,112 @@
+# Text Transformation Practice
+
+Practice various text transformation commands in Zed.
+
+## Exercise 1: Case Transformations
+
+Transform the following text to different cases:
+
+1. convert this to uppercase
+2. CONVERT THIS TO LOWERCASE
+3. convert this to title case
+4. ThisIsCamelCase - convert to lower
+5. this_is_snake_case - convert to upper
+
+## Exercise 2: Sort Lines
+
+Sort these programming languages alphabetically:
+Python
+JavaScript
+Rust
+Go
+TypeScript
+Java
+C++
+Ruby
+Swift
+Kotlin
+
+Sort these numbers (note: alphabetical sort!):
+100
+20
+3
+45
+9
+1000
+250
+50
+
+## Exercise 3: Remove Duplicates
+
+Remove duplicate lines from this list:
+apple
+banana
+apple
+orange
+banana
+grape
+orange
+apple
+mango
+grape
+
+Remove case-insensitive duplicates:
+Apple
+banana
+APPLE
+Banana
+orange
+ORANGE
+Orange
+
+## Exercise 4: Join Lines
+
+Join these lines into a single line:
+The quick brown fox
+jumps over
+the lazy dog.
+
+Join this code into one line:
+const result = items
+    .filter(item => item.active)
+    .map(item => item.value)
+    .reduce((sum, val) => sum + val, 0);
+
+## Exercise 5: Mixed Transformations
+
+Shopping list (practice multiple transformations):
+MILK
+bread
+EGGS
+cheese
+YOGURT
+butter
+
+1. First, convert all to lowercase
+2. Then sort alphabetically
+3. Then remove any duplicates
+4. Finally, convert to title case
+
+## Transform Challenge
+
+Transform this messy data:
+  john doe  
+  JANE SMITH  
+alice johnson
+  BOB WILLIAMS  
+  john doe  
+ALICE JOHNSON
+
+Into this clean format:
+Alice Johnson
+Bob Williams
+Jane Smith
+John Doe
+
+Steps:
+1. Trim whitespace
+2. Convert to title case
+3. Remove duplicates
+4. Sort alphabetically
+
+Your result here:

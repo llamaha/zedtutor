@@ -1,0 +1,31 @@
+# Tab Practice File 3
+
+Great job! You've opened all three practice files.
+
+## Advanced Tab Features:
+
+### 1. Tab Groups (Splits)
+- Drag a tab to the right edge of the editor
+- This creates a new tab group
+- You can have multiple files open side by side
+
+### 2. Tab Context Menu
+- Right-click on any tab to see options
+- Copy path, pin tab, close others, etc.
+
+### 3. Modified Indicator
+- Make a change in this file (type something below)
+hello
+- Notice the dot that appears on the tab
+- This indicates unsaved changes
+
+Type here to see the modified indicator:
+_________________________________
+
+## 🎯 Challenge:
+Can you arrange these three files so that:
+- File 1 is on the left
+- Files 2 and 3 are stacked on the right
+- All three are visible at once?
+
+Hint: Use splits and drag tabs between them!

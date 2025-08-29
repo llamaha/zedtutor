@@ -1,0 +1,22 @@
+{
+  "api": {
+    "baseURL": "https://api.example.com/v1",
+    "timeout": 5000,
+    "retries": 3
+  },
+  "features": {
+    "enableLogging": true,
+    "enableCache": false,
+    "debugMode": true
+  },
+  "messages": {
+    "error": "An error occurred",
+    "success": "Operation completed successfully",
+    "warning": "Please proceed with caution"
+  },
+  "endpoints": {
+    "users": "/v1/users",
+    "posts": "/v1/posts",
+    "auth": "/v1/auth"
+  }
+}

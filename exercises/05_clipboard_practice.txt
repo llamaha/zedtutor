@@ -1,0 +1,95 @@
+# Clipboard Operations Practice
+
+Master copy, cut, and paste operations with these exercises.
+
+## Exercise 1: Basic Copy and Paste
+
+1. Copy this line and paste it below this line.
+
+2. Select and copy just the word COPYWORD from this sentence.
+   Paste here: ________
+
+3. Copy this entire paragraph using line copy (cursor on line, no selection).
+   This demonstrates how Zed can copy entire lines without selecting them first.
+   It's a powerful feature for quick line duplication.
+
+   Paste the paragraph here:
+
+
+## Exercise 2: Cut Operations
+
+1. Cut this line and move it to the end of this section.
+2. This line stays here.
+3. This line also stays.
+
+   Cut line goes here:
+
+
+## Exercise 3: Duplicate Operations
+
+Original line to duplicate
+(Your duplicated line should appear here)
+
+Code block to duplicate:
+```
+function hello() {
+    console.log("Hello, World!");
+}
+```
+
+## Exercise 4: Multi-line Operations
+
+Shopping List (copy and reorganize):
+- Bananas
+- Apples
+- Milk
+- Bread
+- Eggs
+
+Reorganized List (paste items by category):
+Fruits:
+
+
+Dairy:
+
+
+Bakery:
+
+
+## Exercise 5: Complex Copy/Paste
+
+Copy parts from this code and create a new function below:
+
+function userData() {
+    const name = "John Doe";
+    const email = "john@example.com";
+    const age = 30;
+    return { name, email, age };
+}
+
+function displayInfo() {
+    console.log("User Information:");
+    console.log("Name:", name);
+    console.log("Email:", email);
+}
+
+Create a combined function here using copy/paste:
+
+
+## Clipboard Challenge
+
+Transform this CSV data into a JavaScript object using only clipboard operations:
+
+name,age,city
+Alice,28,New York
+Bob,32,Los Angeles
+Carol,25,Chicago
+
+Expected result:
+const users = [
+    { name: "Alice", age: 28, city: "New York" },
+    { name: "Bob", age: 32, city: "Los Angeles" },
+    { name: "Carol", age: 25, city: "Chicago" }
+];
+
+Your transformation here:

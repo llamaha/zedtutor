@@ -1,0 +1,63 @@
+# Find Basics Practice
+
+This file contains various patterns to practice finding text. Use the buffer search
+to locate and navigate through matches.
+
+## Practice Text
+
+The quick brown fox jumps over the lazy dog. The dog was very lazy indeed.
+The fox, being quick and clever, easily jumped over the lazy dog.
+
+Email addresses for testing: john.doe@example.com, jane_smith@company.org,
+admin@test.io, support@help-desk.com, user123@domain.co.uk
+
+Phone numbers in different formats:
+- 555-123-4567
+- (555) 987-6543
+- 555.876.5432
+- +1-555-222-3333
+- 5551234567
+
+## Code Samples
+
+```javascript
+function processData(data) {
+    // TODO: Add validation
+    const result = data.filter(item => item.active);
+    console.log('Processing:', result.length, 'items');
+    return result;
+}
+
+function findUser(users, email) {
+    // TODO: Handle edge cases
+    return users.find(user => user.email === email);
+}
+```
+
+## Search Challenges
+
+1. Find all occurrences of "lazy" (how many?)
+2. Find all email addresses
+3. Find all TODO comments
+4. Find phone numbers with area code 555
+5. Find the word "dog" but not "dogma" or "hotdog"
+
+## Case Sensitivity Practice
+
+These words have different cases:
+- example, Example, EXAMPLE, ExAmPlE
+- TEST, test, Test, TeSt
+- CamelCaseExample, camelCaseExample, CAMELCASEEXAMPLE
+
+Try searching with case sensitivity on and off!
+
+## Whole Word Practice
+
+Finding "the" vs finding words containing "the":
+- the (standalone word)
+- there (contains "the")
+- weather (contains "the")  
+- mathematics (contains "the")
+- The (capitalized)
+
+Use whole word search to find only standalone "the"!

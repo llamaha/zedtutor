@@ -1,0 +1,20 @@
+# Tab Practice File 1
+
+This is the first file for practicing tab navigation.
+
+## Your Task:
+1. Open all three tab practice files
+2. Switch between them using the Command Palette
+3. Try the tab switcher to see all open files
+4. Practice closing and reopening tabs
+
+Remember:
+- Each tab represents an open file
+- You can have many tabs open at once
+- Unsaved changes show a dot on the tab
+- Click the × on the tab to close it
+
+Note down any observations below:
+_________________________________
+_________________________________
+_________________________________

@@ -1,0 +1,61 @@
+# Navigation Practice
+
+This file contains various text patterns to practice navigation. Follow the
+instructions in the lesson and use this as your playground.
+
+## Practice Text - Mixed Content
+
+The quick brown fox jumps over the lazy dog. This classic pangram contains
+every letter of the alphabet. It's perfect for practicing character and word
+navigation.
+
+camelCaseWords and snake_case_words and CONSTANT_CASE_WORDS help you understand
+how Zed handles different naming conventions when navigating by word.
+
+## Navigation Landmarks
+
+=== Section 1 ===
+Navigate to this section using paragraph movements. Notice how blank lines
+create natural boundaries for paragraph navigation.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. This is a longer paragraph that
+spans multiple lines, perfect for practicing line-based navigation and seeing
+how word wrap affects movement commands.
+
+=== Section 2 ===
+URLs and paths: https://example.com/path/to/resource and file:///Users/name/Documents/file.txt
+Email addresses: user@example.com, admin@company.co.uk
+Numbers and codes: 123-45-6789, #FF5733, v2.1.0, 192.168.1.1
+
+=== Section 3 ===
+Special characters and punctuation: @#$%^&*()_+-={}[]|\:";'<>?,./
+Mathematical expressions: 2 + 2 = 4, x² + y² = r², ∑(n=1 to ∞)
+
+## Practice Challenges
+
+1. Start at the beginning of this line and navigate to the number: 42
+2. Jump from here to the word "Section" in any section header
+3. Select this entire sentence using expand selection commands.
+4. Navigate through each URL in Section 2 using word movements
+5. Move from the first "===" to the last "===" using search
+
+## Cursor Parking Spots
+
+Place your cursor here: [X] and practice returning to it after navigating away.
+
+Another parking spot: <CURSOR>
+
+Final parking spot: |INSERT_CURSOR_HERE|
+
+## Line Numbers Reference
+
+Line 50: You found it! This is line 50.
+Line 51: The next line after 50.
+Line 52: Two lines after 50.
+
+(Add more content to make the file longer if needed for line jumping practice)
+
+Remember: Efficient navigation is about choosing the right command for the
+distance you need to travel. Character movements for small adjustments, word
+movements for medium distances, and jump commands for large distances!

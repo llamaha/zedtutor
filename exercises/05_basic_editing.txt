@@ -1,0 +1,68 @@
+# Basic Editing Practice
+
+Practice your basic editing skills here. Follow the exercises in the lesson.
+
+## Exercise 1: Text Insertion
+
+Place your cursor at the [X] marks and practice inserting text:
+
+1. Insert text here: [X]
+2. Add a new line after this line
+3. Add a new line before this line
+4. Insert multiple lines below:
+   [X]
+
+## Exercise 2: Text Deletion
+
+Delete parts of the following text as instructed:
+
+1. Delete the word REMOVE from this sentence: Please REMOVE this word.
+2. Delete this entire line using delete line command.
+3. Remove extra    spaces    between    these    words.
+4. Delete from HERE|to|HERE using word deletion.
+
+## Exercise 3: Line Operations
+
+Practice line-based operations on this list:
+
+- First item
+- Second item
+- This line should be deleted
+- Third item
+- Duplicate this line below
+- Fourth item
+- Move this line up two positions
+- Fifth item
+
+## Exercise 4: Indentation Practice
+
+Fix the indentation in this text:
+
+def example():
+print("This needs indentation")
+if True:
+print("This too")
+else:
+print("And this")
+return "Done"
+
+## Exercise 5: Smart Pairing
+
+Type the opening bracket/quote and see auto-pairing:
+
+1. Type an opening parenthesis here: 
+2. Type an opening bracket here: 
+3. Type a double quote here: 
+4. Type a single quote here: 
+
+## Your Practice Space
+
+Use this area to practice any editing commands:
+_______________________________________________
+
+
+
+
+_______________________________________________
+
+Remember: Efficient editing is about using the right command for the task!
