@@ -89,7 +89,7 @@ myTodos.addItem('Master keyboard shortcuts', 'low');
 /*
  * OUTLINE PANEL EXERCISE:
  * 
- * 1. Open the Outline Panel (Command Palette → "outline panel: toggle")
+ * 1. Open the Outline Panel (Command Palette → "outline panel: toggle focus")
  * 2. Notice how it shows:
  *    - Classes
  *    - Methods

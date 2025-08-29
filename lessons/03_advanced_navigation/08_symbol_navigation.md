@@ -50,7 +50,7 @@ Open `exercises/08_symbols_practice.js` and practice:
 Practice with the full project:
 
 1. **Open project symbols:**
-   - Command Palette → "workspace: toggle project symbols"
+   - Command Palette → "project symbols: toggle"
    - Searches all symbols in project
 
 2. **Filter by symbol type:**

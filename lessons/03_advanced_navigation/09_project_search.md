@@ -24,7 +24,7 @@ Zed provides multiple search tools:
 Practice in the zedtutor project itself:
 
 1. **Basic file finding:**
-   - Command Palette → "workspace: toggle file finder"
+   - Command Palette → "file finder: toggle"
    - Start typing filename
    - Notice fuzzy matching
    - Use arrows to navigate results

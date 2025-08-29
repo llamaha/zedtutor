@@ -186,7 +186,7 @@ class UserManager {
 }
 
 /* Symbol Navigation Exercises:
- * 1. Use outline search to find all classes
+ * 1. Use "outline panel: toggle focus" to find all classes
  * 2. Navigate to the 'process' method in DataProcessor
  * 3. Find all methods that include 'user' in the name
  * 4. Jump to the Analytics object

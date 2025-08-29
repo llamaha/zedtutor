@@ -31,7 +31,7 @@ Set up for collaboration:
    - Ready to collaborate
 
 2. **Contacts panel:**
-   - Command Palette → "collab: toggle contacts menu"
+   - Command Palette → "collab panel: toggle focus"
    - See contacts list
    - Online status
    - Add contacts

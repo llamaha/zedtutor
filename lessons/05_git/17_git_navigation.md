@@ -25,7 +25,7 @@ Navigation features include:
 Practice hunk navigation:
 
 1. **Jump between hunks:**
-   - Command Palette → "editor: go to next hunk"
+   - Command Palette → "editor: go to hunk"
    - Command Palette → "editor: go to previous hunk"
    - Quick change review
    - Systematic navigation

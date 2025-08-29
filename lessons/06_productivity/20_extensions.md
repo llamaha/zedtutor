@@ -25,7 +25,7 @@ Zed extensions provide:
 Explore available extensions:
 
 1. **Open extensions:**
-   - Command Palette → "extensions: open"
+   - Command Palette → "zed: extensions"
    - Browse categories
    - Search specific needs
    - Read descriptions

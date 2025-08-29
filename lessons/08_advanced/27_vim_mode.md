@@ -25,7 +25,7 @@ Zed's Vim integration:
 Get started with Vim:
 
 1. **Enable Vim mode:**
-   - Command Palette → "vim: toggle"
+   - Command Palette → "workspace: toggle vim mode"
    - Or in settings:
    ```json
    {

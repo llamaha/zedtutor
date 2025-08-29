@@ -124,7 +124,7 @@ Explore these advanced features in any codebase:
    - Quick navigation
 
 4. **Workspace symbols:**
-   - Use "workspace: toggle project symbols"
+   - Use "project symbols: toggle"
    - Search across entire project
    - Filter by name
    - Find implementations
