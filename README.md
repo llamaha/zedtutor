@@ -7,11 +7,19 @@ An interactive tutorial to learn the Zed IDE by doing. Open this project in Zed 
 1. **Open this project in Zed**
    - Use `File > Open` or drag the `zedtutor` folder into Zed
    
-2. **Start with Lesson 1**
+2. **Set up your learning workspace** (Recommended)
+   - Split your editor to work with lesson and exercises side-by-side:
+   - Open `lessons/01_basics/01_welcome.md`
+   - Use Command Palette → "pane: split right" (or "pane: split down")
+   - In one pane: Use Command Palette → "editor: preview" to view the lesson
+   - In other pane: Open exercise files to practice
+   - This setup lets you read instructions while coding!
+
+3. **Start with Lesson 1**
    - Navigate to `lessons/01_basics/01_welcome.md` in the file tree
    - Follow the instructions in each lesson file
 
-3. **Work through exercises**
+4. **Work through exercises**
    - Each lesson has practice files in the `exercises/` folder
    - Edit these files as instructed to learn by doing
 
