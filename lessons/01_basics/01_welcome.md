@@ -20,6 +20,14 @@ The Command Palette is the gateway to almost everything in Zed. Think of it as a
 - ✅ Discover features as you type
 - ✅ Faster than navigating menus
 
+### 🔍 Important: Context-Sensitive Commands
+**The Command Palette shows different commands based on your current context.** For example:
+- `editor: undo` only appears if you've made changes to undo
+- Git commands only appear in git repositories
+- Some commands require specific file types or situations
+
+This is actually helpful - it prevents clutter and shows only relevant actions!
+
 ## 🏃 Exercise 1: Opening the Command Palette
 
 **Your first task:**
@@ -42,8 +50,8 @@ Commands in Zed follow a naming pattern: `namespace: action`
 
 Examples:
 - `editor: undo` - Undo in the editor
-- `workspace: new` - Create a new file
-- `project: find in project` - Search across all files
+- `workspace: new file` - Create a new file
+- `pane: deploy search` - Search across all files in your project
 
 **Your task:**
 1. Open the Command Palette
@@ -65,13 +73,14 @@ Let's set up an ideal workspace for learning:
    - Click on this lesson file
    - Open Command Palette
    - Type "preview"
-   - Select `editor: preview`
+   - Select `markdown: open preview`
    - The lesson becomes more readable!
 
 3. **Navigate between panes:**
    - Open Command Palette
-   - Type "focus"
-   - Try `pane: focus next` or `pane: focus previous`
+   - Type "activate pane"
+   - Try `workspace: activate pane left` or `workspace: activate pane right`
+   - Or use directional navigation: `workspace: activate pane up/down`
 
 💡 **Tip:** This split view lets you read lessons while working on exercises!
 
@@ -96,13 +105,13 @@ Now let's execute some commands:
 1. **Save your file:**
    - Open Command Palette
    - Type "save"
-   - Select `workspace: save`
+   - Select `workspace: save as`
    - Save it as `my-first-file.txt` in the `exercises` folder
 
 2. **Open a file:**
    - Open Command Palette
    - Type "open"
-   - Select `workspace: open file`
+   - Select `workspace: open`
    - Navigate to `exercises/01_command_palette_practice.md`
 
 ## 💡 Pro Tips
