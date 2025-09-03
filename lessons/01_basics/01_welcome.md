@@ -51,7 +51,31 @@ Examples:
 3. Select `workspace: new` and press Enter
 4. A new untitled file will open!
 
-## 🏃 Exercise 3: Exploring Available Commands
+## 🏃 Exercise 3: Setting Up Your Learning Workspace
+
+Let's set up an ideal workspace for learning:
+
+1. **Split your editor** (if you have two files open):
+   - Open Command Palette
+   - Type "split"
+   - Select `pane: split right` (or `pane: split down`)
+   - Now you have two panes!
+
+2. **Optional: Use Markdown Preview**
+   - Click on this lesson file
+   - Open Command Palette
+   - Type "preview"
+   - Select `editor: preview`
+   - The lesson becomes more readable!
+
+3. **Navigate between panes:**
+   - Open Command Palette
+   - Type "focus"
+   - Try `pane: focus next` or `pane: focus previous`
+
+💡 **Tip:** This split view lets you read lessons while working on exercises!
+
+## 🏃 Exercise 4: Exploring Available Commands
 
 Let's explore what's available:
 
@@ -65,7 +89,7 @@ Let's explore what's available:
 
 Don't execute these yet - just observe the available options.
 
-## 🏃 Exercise 4: Your First Real Commands
+## 🏃 Exercise 5: Your First Real Commands
 
 Now let's execute some commands:
 
