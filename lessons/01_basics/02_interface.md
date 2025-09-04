@@ -5,6 +5,7 @@ Now that you're comfortable with the Command Palette, let's explore Zed's user i
 ## 🎯 Learning Objectives
 
 By the end of this lesson, you will:
+
 - Identify all major UI components
 - Navigate between different panels
 - Understand the tab system
@@ -13,49 +14,60 @@ By the end of this lesson, you will:
 ## 📚 Zed's Interface Components
 
 ### 1. **The Editor Area** (Center)
+
 The main area where you write and edit code. Features:
+
 - Multiple tabs for different files
 - Split panes for side-by-side editing
 - Syntax highlighting
 - Code folding
 
 **Command Palette commands:**
+
 - `workspace: new` - Create new file
-- `workspace: save` - Save current file  
+- `workspace: save` - Save current file
 - `editor: fold` - Fold code blocks
 - `editor: unfold lines` - Unfold code blocks
 
 ### 2. **The Project Panel** (Left)
+
 Your file explorer. Shows:
+
 - Directory tree structure
 - File icons based on type
 - Git status indicators
 - Quick file operations
 
 **Command Palette commands:**
+
 - `project panel: toggle focus` - Toggle panel (see exercise below)
 - `workspace: toggle left dock` - Hide/show entire left dock
 - `workspace: close all docks` - Hide all panels at once
 - Right-click in panel for context menu options:
   - New File
-  - New Directory  
+  - New Directory
   - Copy Path
   - Copy Relative Path
   - Reveal in File Manager
 
 ### 3. **The Terminal Panel** (Bottom)
+
 Integrated terminal for:
+
 - Running commands
 - Viewing output
 - Multiple terminal tabs
 
 **Command Palette commands:**
+
 - `terminal panel: toggle focus` - Show/hide terminal
-- `workspace: new terminal` - Create new terminal tab tab
-- `terminal: clear` - Clear terminal output
+- `workspace: new terminal` - Create new terminal tab
+- `workspace: new center terminal` - Open terminal in the editor area
 
 ### 4. **The Status Bar** (Bottom)
+
 Shows important information:
+
 - Current file path
 - Language mode
 - Line/column position
@@ -63,8 +75,9 @@ Shows important information:
 - Diagnostics count
 
 **Command Palette commands:**
+
 - `go to line: toggle` - Jump to specific line
-- `language selector: toggle` - Change syntax highlighting  
+- `language selector: toggle` - Change syntax highlighting
 - `diagnostics: deploy` - Show all project diagnostics
 
 ## 🏃 Exercise 1: Exploring the Project Panel
@@ -153,14 +166,15 @@ Shows important information:
 
 ## 💡 Pro Tips
 
-- **Focus Mode**: Hide all panels with Command Palette → "workspace: toggle focus mode"
-- **Zen Mode**: Command Palette → "workspace: toggle zoom" for distraction-free editing
+- **Toggle Zoom**: Focus on current pane with Command Palette → "workspace: toggle zoom" (or Shift+Cmd+Enter)
+- **Centered Layout**: Use Command Palette → "workspace: toggle centered layout" for distraction-free editing ([configure padding](https://zed.dev/docs/configuring-zed#centered-layout))
 - **Panel Positions**: Most panels can be moved to different sides
 - **Persistent Layout**: Zed remembers your layout preferences
 
 ## ✅ Lesson Summary
 
 You've learned about:
+
 - The Project Panel for file navigation
 - Tab management and navigation
 - Split panes for multi-file editing
@@ -170,6 +184,7 @@ You've learned about:
 ## 🎯 Practice Challenge
 
 Set up your ideal workspace:
+
 1. Open 3 files in tabs
 2. Create a vertical split
 3. Open the terminal at the bottom

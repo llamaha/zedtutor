@@ -15,7 +15,6 @@ Great job! You've opened all three practice files.
 
 ### 3. Modified Indicator
 - Make a change in this file (type something below)
-hello
 - Notice the dot that appears on the tab
 - This indicates unsaved changes
 

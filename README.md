@@ -1,5 +1,7 @@
 # Welcome to Zedtutor! 🎓
 
+> **Note**: This project is currently under active development. It was initially scaffolded with Claude AI and each lesson is being carefully reviewed and tested. Check the commit history to track the verification progress.
+
 An interactive tutorial to learn the Zed IDE by doing. Open this project in Zed and work through the lessons to master Zed's powerful features.
 
 ## 🚀 Getting Started
@@ -90,6 +92,8 @@ When you finish all lessons, you'll be proficient in:
 ## 🤝 Contributing
 
 Found an issue or have a suggestion? Feel free to contribute to make Zedtutor even better!
+
+If you discover any errors or inaccuracies in the lessons, we'd love your help! Please consider opening a pull request with the fix – even small corrections are greatly appreciated and help make this tutorial better for everyone.
 
 ---
 
