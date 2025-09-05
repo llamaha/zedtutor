@@ -35,7 +35,7 @@ Open `exercises/05_basic_editing.txt` and practice:
 1. **Inserting text:**
    - Type normally to insert at cursor
    - Command Palette → "editor: newline" (creates new line)
-   - Command Palette → "editor: newline above" (insert line above)  
+   - Command Palette → "editor: newline above" (insert line above)
    - Command Palette → "editor: newline below" (insert line below)
 
 2. **Deleting text:**
@@ -68,17 +68,17 @@ Practice in `exercises/05_clipboard_practice.txt`:
    - Without selecting (cursor on line)
    - Command Palette → "editor: copy" (copies whole line)
    - Command Palette → "editor: cut" (cuts whole line)
-   
+
    **Additional clipboard commands:**
-   - `workspace: copy path` - Copy file path  
+   - `workspace: copy path` - Copy file path
    - `workspace: copy relative path` - Copy relative path
-   - `editor: copy permalink to line` - Copy GitHub permalink
+   - `editor: copy permalink to line` - Copy GitHub permalink to exact line of code
 
 4. **Duplicate line/selection:**
    - Command Palette → "editor: duplicate line down"
    - If text selected: duplicates selection
    - If no selection: duplicates current line
-   
+
    **Line operations:**
    - `editor: move line up` - Move line up
    - `editor: move line down` - Move line down
@@ -117,7 +117,7 @@ Use `exercises/05_transform_practice.txt`:
    - Command Palette → "editor: sort lines case sensitive"
    - Command Palette → "editor: sort lines case insensitive"
    - Command Palette → "editor: sort lines by length"
-   
+
 3. **More transformations:**
    - `editor: toggle comments` - Comment/uncomment lines
    - `editor: indent` - Increase indentation
@@ -135,7 +135,7 @@ Use `exercises/05_transform_practice.txt`:
    - Command Palette → "editor: join lines"
    - Combines into single line
 
-## 🏃 Exercise 5: Smart Editing Features  
+## 🏃 Exercise 5: Smart Editing Features
 
 Practice in any text file or create a new JavaScript file:
 
@@ -163,7 +163,7 @@ Practice in any text file or create a new JavaScript file:
 
 - **Clipboard History**: Some systems maintain clipboard history - paste previously copied items
 - **Smart Selections**: Double-click for word, triple-click for line
-- **Column Selection**: Hold Alt while selecting for column mode
+- **Column Selection**: Hold Alt while selecting multiple words or strings for column mode
 - **Repeat Last Edit**: Some edits can be repeated with a single command
 
 ## ✅ Lesson Summary
