@@ -64,7 +64,9 @@ An interactive tutorial to learn the Zed IDE by doing. Open this project in Zed 
 
 ## 🎯 Learning Approach
 
-This tutorial focuses on using the **Command Palette** for all actions to ensure compatibility across macOS, Linux, and Windows. 
+This tutorial focuses on using the **Command Palette** for all actions to ensure compatibility across macOS, Linux, and Windows.
+
+**A note on keyboard shortcuts**: Throughout this course, we intentionally place minimal emphasis on specific hotkeys since they vary between operating systems and editor modes (standard, Vim, Helix). Instead, as you use the Command Palette, you'll naturally discover the keyboard shortcuts displayed next to each action. This approach helps you learn the shortcuts that are relevant to your specific setup and preferences. 
 
 ### Tips for Success:
 - 📖 Read each lesson carefully

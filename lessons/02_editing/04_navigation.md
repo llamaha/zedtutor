@@ -14,7 +14,7 @@ By the end of this lesson, you will:
 
 Zed offers multiple levels of navigation:
 - **Character**: Move one character at a time
-- **Word**: Jump between word boundaries  
+- **Word**: Jump between word boundaries
 - **Line**: Move by lines or to line start/end
 - **Block**: Navigate by paragraphs or code blocks
 - **File**: Jump to file start/end or specific lines
@@ -76,12 +76,12 @@ Selection is navigation with memory! Practice in `exercises/04_selection_practic
    - Command Palette → "editor: select to previous word start"
    - Command Palette → "editor: select to next word end"
 
-2. **Expand/shrink selection:**
+2. **Move between AST syntax nodes:**
    - Place cursor inside parentheses/brackets
    - Command Palette → "editor: select larger syntax node"
    - Repeat to select larger blocks
    - Command Palette → "editor: select smaller syntax node"
-   
+
    **More selection commands:**
    - `editor: select all` - Select entire file
    - `editor: select line` - Select current line
@@ -109,7 +109,7 @@ Open `exercises/04_code_navigation.js` for structured navigation:
    - If there are errors in the file:
    - Command Palette → "editor: go to diagnostic"
    - Command Palette → "editor: go to prev diagnostic"
-   
+
    **Related commands:**
    - `diagnostics: deploy` - Show diagnostics panel
    - `editor: go to next diagnostic` - Next error/warning
@@ -125,15 +125,16 @@ Open `exercises/04_code_navigation.js` for structured navigation:
 
 2. **Navigation history:**
    - After making jumps (go to line, symbol, etc.):
-   - Command Palette → "pane: go back" 
+   - Command Palette → "pane: go back"
    - Command Palette → "pane: go forward"
    - Navigate through your location history
 
-3. **Marks (Vim mode only):**
-   - If using Vim mode, you can set marks
-   - Otherwise, use outline navigation
-   - Or remember important line numbers
-   - Go to line is very fast in Zed!
+3. **Bookmarking locations:**
+   - Outline panel for quick function/class navigation
+   - Split panes to keep important code visible
+   - Navigation history (go back/forward) to return to previous positions
+   - Quick "go to line" for specific line numbers
+   - (Vim users: See Lesson 27 for marks feature)
 
 ## 💡 Pro Tips
 

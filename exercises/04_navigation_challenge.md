@@ -8,7 +8,7 @@ Complete these challenges using only Zed navigation commands!
 - Time yourself for each challenge
 
 ## Challenge 1: Line Jumping
-Start at line 1 (this line) and navigate to line 50 without scrolling.
+Start at this line and navigate to line 19 without scrolling.
 
 (Filler content to make the file longer...)
 
@@ -17,7 +17,7 @@ Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
 
 ## Challenge 2: Function Selection
-Navigate to line 30 and select the entire function you find there.
+Navigate to challenge 3 and select the entire function you find there.
 
 More filler content...
 The quick brown fox jumps over the lazy dog.
@@ -37,7 +37,7 @@ function processData() {
 }
 ```
 
-Line 30: Here's the function to select:
+Here's the function to select:
 ```javascript
 function calculateScore(items) {
     let total = 0;
@@ -59,12 +59,12 @@ Even more content to make navigation meaningful...
 ## Challenge 4: Symbol Navigation
 Using the outline panel, find and jump to these symbols:
 1. processData function
-2. calculateScore function  
+2. calculateScore function
 3. example_function in Python
 
 Challenge checkpoint 1 reached!
 
-Line 50: Congratulations! You found line 50!
+Line 67: Congratulations! You found line 67!
 
 More filler to space out the bookmarks...
 Lorem ipsum continues...
@@ -91,7 +91,7 @@ Challenge checkpoint 3 - Final location!
 
 ## Challenge 5: Speed Run
 Starting from the beginning:
-1. Jump to line 50 ✓
+1. Jump to line 67 ✓
 2. Find the first TODO ✓
 3. Select the calculateScore function ✓
 4. Jump to checkpoint 2 using Go to Line ✓
@@ -102,7 +102,7 @@ Can you complete all 5 tasks in under 2 minutes?
 ## Your Results
 Record your times:
 - Challenge 1: _____ seconds
-- Challenge 2: _____ seconds  
+- Challenge 2: _____ seconds
 - Challenge 3: _____ seconds
 - Challenge 4: _____ seconds
 - Challenge 5: _____ seconds
