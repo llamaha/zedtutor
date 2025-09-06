@@ -53,10 +53,11 @@ Create a new file or use any existing text file and practice:
    - Command Palette → "editor: select all matches"
    - Every occurrence now has a cursor
 
-4. **Skip occurrences:**
-   - After selecting some occurrences
-   - After adding selections, you can skip occurrences manually
-   - Skips the next match
+4. **Skip occurrences while selecting:**
+   - While using "editor: select next"
+   - To skip an occurrence: Command Palette → "editor: undo selection" 
+   - This deselects the current match and moves to the next one
+   - Useful for selective editing
    
 5. **Undo cursor selection:**
    - Command Palette → "editor: undo selection"
@@ -64,6 +65,8 @@ Create a new file or use any existing text file and practice:
    - Keep refining your selection
 
 ## 🏃 Exercise 2: Column Selection
+
+Column selection (also called block selection) lets you select a rectangular area of text spanning multiple lines - perfect for editing aligned data like CSV files, markdown tables, or code with consistent indentation.
 
 Practice column selection with any structured text:
 
@@ -88,7 +91,7 @@ Practice column selection with any structured text:
 
 ## 🏃 Exercise 3: Practical Refactoring
 
-Create a JavaScript file with some variables to practice refactoring:
+Open `exercises/06_multi_cursor_practice.js` to practice refactoring:
 
 1. **Rename variables:**
    - Select variable name
